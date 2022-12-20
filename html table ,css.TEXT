@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>My First HTML Page</title>
+<style type="text/css">
+                                                  <!internal css>
+    h1 {font-family:time new roman, sans-serif}
+    h2 {font-family:time new roman, sans-serif} 
+    p1  {font-family:time new roman,sans-serif}
+    .blue {color:blue}
+  </style>
+
+  </head>
+  <body>
+ 
+ <h2 style="font-size: 30pt; color:blue">ID 16900</h2>         <!inline css>
+
+ <h1 style="font-size: 30pt; color:blue">NAME SULAIMAN</h1>    
+
+ <p1 style="font-size: 30pt; color:blue"> ASSIGNMENT</p1>
+
+<body style="background-color:skyblue;">
+<style> 
+table, th, td {
+  border:1px solid black;
+}
+
+</style>
+<table style="width:100% height:100%"> 
+  <tr>
+    <th>AUDIO NAME</th>
+    <th>DOWNLOD</th>
+   
+    <th>AUDIO</th>
+  </tr>
+<tr>
+   <td>tu kuja man kuja</td>
+   <td><a href="D:\assignment.html.pm3">downlod </a></td>
+
+   <td>
+    <audio controls>
+     <source src="D:\assignment.html.mp3" type="audio/mpeg"></td>
+     </audio>
+</tr>
+<tr>
+   <td>Hasbi Rabbi Tere Sadqay Main Aqa</td>
+   <td><a href="D:\assignment.html.mp3">downlod </a></td>
+<td>
+<audio controls>
+     <source src="D:\assignment.html.mp3" type="audio/mpeg"></td>
+     </audio>
+
+</tr>
+ 
+
+  </body>
+</html>

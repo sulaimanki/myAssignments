@@ -1,0 +1,67 @@
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   <h1 style="color:blue;">This is web page</h1> 
+                                                                   <!external css >
+
+<p>With CSS, you can control the color, font, the size of text, the spacing between elements, how elements are positioned and laid out, what background images or background colors are to be used, different displays for different devices and screen sizes, and much more!.</p>
+
+</body>
+</html>
+
+<body style="background-color:silver;">       <! internel css>
+<style> 
+table, th, td {
+  border:3px solid black;
+}
+
+</style>
+
+<body>
+
+<h10 style="color:blue;">HTML TABLE</h10>      <!inline css >
+
+
+
+
+<table style="width:25% height:25%">  
+  <tr>
+    <th>SERIAL NO</th>
+    <th>HYPERLINK</th>
+    <th>WEBSITE FULL NAME</th>
+    <th>PIC</th>
+  </tr>
+  <tr>
+    <td>1</td>
+   <td> <a href="https://web.whatsapp.com/" target="_blank">https://web.whatsapp.com/ !</a> </td>
+    <td>whatsapp</td>
+      <td><img src="file:///C:/Users/lenovo/Videos/w.whatsapp.webp"  width="50" height="50"</td>
+  </tr>
+  <tr>
+    <td>2</td>
+ <td><a href="https://learn.iqracity.org/" target="_blank">https://learn.iqracity.org/!</a> </td>
+    <td>iqracity</td>
+    <td><img src="file:///C:/Users/lenovo/Videos/iqracity.jpg"  width="50" height="50"</td>
+  </tr>
+<tr>
+    <td>3</td>
+ <td><a href="http://sic.inu.edu.pk/" target="_blank">http://sic.inu.edu.pk/!</a> </td>
+    <td>iqrainu</td>
+    <td><img src="file:///C:/Users/lenovo/Desktop/inu.png"  width="50" height="50"</td>
+  </tr>
+<tr>
+    <td>4</td>
+ <td><a href="https://www.lucidchart.com/blog/" target="_blank">https://www.lucidchart.com/blog/!</a> </td>
+    <td>Lucid chart</td>
+    <td><img src="file:///C:/Users/lenovo/Downloads/lucid.png"  width="50" height="50"</td>
+  </tr>
+
+
+</table>
+
+
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GF-khushal>
+ <uncle type="nawab">
+         <cousin>shahaid</cousin>
+         <sex>male</sex>
+         <age>30</age>
+         <cousin>enzomam</cousin>
+         <sex>male</sex>
+         <age>25</age>
+         <cousin>waqas</cousin>
+         <sex>male</sex>
+         <age>27</age>
+         
+    </uncle>
+
+<father type="rauf">
+        <bro>ab rauf</bro>
+        <sex>male</sex>
+        <age>25</age>
+        <myself>salman</myself>
+        <sex>male</sex>
+        <age>21</age>
+</father>
+ 
+<uncle type="gul">
+       <cousin>amjad</cousin>
+       <sex>male</sex>
+       <age>31</age>
+       <cousin>mukhtar</cousin>
+       <sex>male</sex>
+       <age>27</age>
+</uncle>
+
+
+
+</GF-khushal>
